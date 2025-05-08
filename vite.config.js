@@ -7,4 +7,5 @@ export default defineConfig({
   plugins: [react(),
     tailwindcss()
   ],
+  base: '/IMDB-Movie-rating/',
 })
